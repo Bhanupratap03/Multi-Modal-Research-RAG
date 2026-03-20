@@ -6,7 +6,7 @@ from PIL import Image
 # 🔑 SETUP
 # ==========================================
 # PASTE YOUR KEY HERE (Keep this file private!)
-API_KEY = "AIzaSyD8SmBucptleHOPt8HnWSvi6lL-HOrUoFM"
+API_KEY = "PASTE_API_KEY"
 
 genai.configure(api_key=API_KEY)
 
