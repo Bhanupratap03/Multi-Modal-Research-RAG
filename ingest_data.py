@@ -9,7 +9,7 @@ from unstructured.partition.pdf import partition_pdf
 # 🔑 SETUP
 # ==========================================
 # PASTE YOUR KEY HERE
-HUGGINGFACEHUB_ACCESS_TOKEN = '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' 
+HUGGINGFACEHUB_ACCESS_TOKEN = 'HUGGINGFACE_API_KEY' 
 
 # Define our paths
 PDF_FILE = "DeepSeek-2025.pdf"
