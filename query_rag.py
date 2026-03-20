@@ -8,7 +8,7 @@ from langchain_core.prompts import ChatPromptTemplate
 # 🔑 SETUP
 # ==========================================
 # PASTE YOUR KEY HERE (Same one you used for image captioning)
-GOOGLE_API_KEY = "AIzaSyD8SmBucptleHOPt8HnWSvi6lL-HOrUoFM"
+GOOGLE_API_KEY = "INSERT_API_KEY"
 
 # Define Paths
 DB_PATH = "chroma_db_data"
